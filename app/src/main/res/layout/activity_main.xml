@@ -101,7 +101,7 @@
         android:textAlignment="center"
         android:padding="50dp"
         android:textAppearance="?android:attr/textAppearanceLarge"
-        android:text="Submitted By - \n\n  Rahul Gandhi\nKaustaubh Rathore\nHimanshu Singh"
+        android:text="Submitted By - \n\n  Vishwan Tiwari"
         android:layout_gravity="center"
         android:layout_marginTop="10dp"
         android:background="@drawable/roundhalf"

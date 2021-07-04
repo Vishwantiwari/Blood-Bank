@@ -1,52 +1,36 @@
 {
   "project_info": {
-    "project_number": "168113844797",
-    "firebase_url": "https://blood-bank-database.firebaseio.com",
-    "project_id": "blood-bank-database",
-    "storage_bucket": "blood-bank-database.appspot.com"
+    "project_number": "193442381306",
+    "project_id": "blood-bank-manage",
+    "storage_bucket": "blood-bank-manage.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:168113844797:android:8c3c3a8c73fb8254",
+        "mobilesdk_app_id": "1:193442381306:android:8b483637333cac2666b843",
         "android_client_info": {
-          "package_name": "com.android.iunoob.bloodbank"
+          "package_name": "in.macrocodes.bloodbankmanage"
         }
       },
       "oauth_client": [
         {
-          "client_id": "168113844797-jgav0mn9ckf1j659q77r8qnbf5h4kvni.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.android.iunoob.bloodbank",
-            "certificate_hash": "dcb94ea92b95d9569b1a8d06d594593deb56f3ab"
-          }
-        },
-        {
-          "client_id": "168113844797-g45rte55k6ov36kqhv9i5ee6crggsuk9.apps.googleusercontent.com",
+          "client_id": "193442381306-9kreofe8nj0p824p9qjpifuj5faurrkp.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAX-e-7ickgMSuWrOwWRVcKaCbyTwj8yEw"
+          "current_key": "AIzaSyB_mjEOg9T1jCNDyrbj73tnHHHVp0hMolM"
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "168113844797-g45rte55k6ov36kqhv9i5ee6crggsuk9.apps.googleusercontent.com",
+              "client_id": "193442381306-9kreofe8nj0p824p9qjpifuj5faurrkp.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
-        },
-        "ads_service": {
-          "status": 2
         }
       }
     }
